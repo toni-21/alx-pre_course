@@ -1,2 +1,2 @@
-git fetch
-git merge
+$git add up_date
+$git pull
